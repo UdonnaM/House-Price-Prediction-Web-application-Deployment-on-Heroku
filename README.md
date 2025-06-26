@@ -122,7 +122,7 @@ heroku open
 
 ---
 
-## Screenshots
+## Screenshot of web form interface and results prediction after successful deployment on Heroku
 
 Include screenshots of:
 
