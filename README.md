@@ -15,7 +15,7 @@ A machine learning web application built with **Flask** to predict house prices 
 * [Project Structure](#project-structure)
 * [Getting Started](#getting-started)
 * [Model Deployment (Heroku)](#model-deployment-heroku)
-* [Screenshots](#screenshots)
+* [Screenshot of web form interface and results prediction after successful deployment on Heroku](#Screenshot-of-web-form-interface-and-results-prediction-after-successful-deployment-on-Heroku)
 
 ---
 
