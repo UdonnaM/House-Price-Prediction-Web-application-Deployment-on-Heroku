@@ -124,10 +124,8 @@ heroku open
 
 ## Screenshot of Deployed Web Application
 
-Include screenshots of:
+The image below displays the user interface of the Flask-based web form and the predicted house price result after successful deployment on Heroku.
 
-* Web form interface
-* Prediction result
-* Heroku deployment confirmation in terminal
+![House Price Prediction Screenshot](screenshots/Web%20app%20image.jpg)
 
 ---
