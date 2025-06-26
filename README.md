@@ -7,7 +7,7 @@ A machine learning web application built with **Flask** to predict house prices 
 
 ---
 
-## 📁 Table of Contents
+## Table of Contents
 
 * [Overview](#overview)
 * [Features](#features)
@@ -19,13 +19,13 @@ A machine learning web application built with **Flask** to predict house prices 
 
 ---
 
-## 🧠 Overview
+## Overview
 
 This project demonstrates how a simple machine learning model for house price prediction can be deployed as a live web app using Flask and hosted on Heroku. The model was trained using `scikit-learn`, wrapped in a Python Flask server, and served via HTML templates.
 
 ---
 
-## 🚀 Features
+## Features
 
 * Clean UI for inputting house-related features
 * Predicts house prices in real-time using a trained Linear Regression model
@@ -34,7 +34,7 @@ This project demonstrates how a simple machine learning model for house price pr
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool         | Usage                          |
 | ------------ | ------------------------------ |
@@ -48,7 +48,7 @@ This project demonstrates how a simple machine learning model for house price pr
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 ```bash
 houseprice_app/
@@ -69,7 +69,7 @@ houseprice_app/
 
 ---
 
-## 🧪 Getting Started (Local Setup)
+## Getting Started (Local Setup)
 
 ```bash
 # 1. Clone repo and move into project directory
@@ -91,7 +91,7 @@ Visit `http://127.0.0.1:5000` in your browser.
 
 ---
 
-## ☁️ Model Deployment (Heroku)
+##  Model Deployment (Heroku)
 
 ### Prerequisites
 
@@ -122,7 +122,7 @@ heroku open
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 Include screenshots of:
 
