@@ -1,6 +1,6 @@
 # House-Price-Prediction-Web-application-Deployment-on-Heroku
 
-# 📌 House Price Prediction – Heroku-Deployed Flask Web App
+# House Price Prediction – Heroku-Deployed Flask Web App
 
 A machine learning web application built with **Flask** to predict house prices using a **Linear Regression** model. The app was containerised in a virtual environment and deployed to **Heroku** via the CLI. For details on model development and local Flask deployment, see the companion repository: [ML-Based-House-Price-Prediction-Web-App](https://github.com/UdonnaM/ML-Based-House-Price-Prediction-Web-App)
 
