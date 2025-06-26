@@ -16,6 +16,7 @@ A machine learning web application built with **Flask** to predict house prices 
 * [Getting Started](#getting-started)
 * [Model Deployment (Heroku)](#model-deployment-heroku)
 * [Screenshot of Deployed Web Application](#Screenshot-of-Deployed-Web-Application)
+* [Project Summary](#Project-Summary)
 
 ---
 
@@ -129,3 +130,9 @@ The image below displays the user interface of the Flask-based web form and the 
 ![House Price Prediction Screenshot](screenshots/Web%20app%20image.jpg)
 
 ---
+
+## Project Summary
+
+This project demonstrates the complete cycle of building, containerising, and deploying a machine learning web application using Flask and Linear Regression. It highlights key skills such as model integration into a web framework, virtual environment management, and cloud deployment via the Heroku CLI. While the primary goal was deployment, this project also reflects best practices in organising machine learning pipelines for real-world use.
+
+The successful deployment marks the culmination of local development efforts and showcases practical knowledge in full-stack machine learning workflows.
